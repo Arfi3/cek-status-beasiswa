@@ -37,7 +37,7 @@ Struktur data mengikuti format berikut:
 Format NIM: `[Tahun][Jalur Masuk]-[Kode Fakultas][Kode Jurusan]-[Nomor Urut]`
 Contoh: `25T-A11-0001` → tahun 2025, jalur Tes, Fakultas Sains (A1), Jurusan Matematika (1), nomor urut 0001.
 
-Seluruh isi data dapat dilihat pada file ''
+Seluruh isi data dapat dilihat pada file [File Data Mahasiswa](https://github.com/Arfi3/cek-status-beasiswa/blob/main/Data%20Lengkap%20Cek%20Status%20Beasiswa%20Citra%202026.xlsx)
 
 ## Tech Stack
 
