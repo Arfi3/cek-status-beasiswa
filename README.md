@@ -1,4 +1,5 @@
 # Cek Status Beasiswa Citra 2026
+![Dataset Preview](https://github.com/Arfi3/cek-status-beasiswa/blob/main/Screenshot%202026-07-01%20161616.png)
 
 Halaman web sederhana untuk mengecek status kelayakan (eligibilitas) mahasiswa dalam program Beasiswa Citra 2026, berdasarkan Nomor Induk Mahasiswa (NIM).
 
