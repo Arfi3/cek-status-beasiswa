@@ -34,6 +34,33 @@ Struktur data mengikuti format berikut:
 | No | NIM | Nama | Jenis Kelamin | Angkatan | Fakultas | Jurusan | Semester | IPK | Nilai Terendah | Status |
 |----|-----|------|----------------|----------|----------|---------|----------|-----|------------------|--------|
 
+**Kode Fakultas dan Jurusan**
+
+| Kode Fakultas | Fakultas | Kode Jurusan | Jurusan |
+|:-------------:|----------|:------------:|----------|
+| A1 | Sains | 1 | Matematika |
+| A1 | Sains | 2 | Statistika |
+| A1 | Sains | 3 | Biologi |
+| A2 | Teknik | 1 | Teknik Informatika |
+| A2 | Teknik | 2 | Teknik Industri |
+| A3 | Ekonomi | 1 | Manajemen |
+| A3 | Ekonomi | 2 | Akuntansi |
+| A3 | Ekonomi | 3 | Ekonomi Pembangunan |
+| A4 | Pertanian | 1 | Agroteknologi |
+| A4 | Pertanian | 2 | Agribisnis |
+| A5 | Ilmu Sosial | 1 | Administrasi Publik |
+| A5 | Ilmu Sosial | 2 | Ilmu Komunikasi |
+| A5 | Ilmu Sosial | 3 | Sosiologi |
+
+**Kode Jalur Masuk**
+
+| Jalur Masuk | Kode |
+|:-----------:|:----:|
+| Tes | T |
+| Rapor | R |
+| Mandiri | M |
+
+
 Format NIM: `[Tahun][Jalur Masuk]-[Kode Fakultas][Kode Jurusan]-[Nomor Urut]`
 Contoh: `25T-A11-0001` → tahun 2025, jalur Tes, Fakultas Sains (A1), Jurusan Matematika (1), nomor urut 0001.
 
